@@ -56,4 +56,4 @@ const MORSE_TABLE = {
 		module.exports = {
 		decode
 		}
-	}
+	
